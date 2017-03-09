@@ -1,0 +1,1 @@
+{"/var/host/log/cron":{"source":"/var/host/log/cron","offset":41115,"FileStateOS":{"inode":67110022,"device":64768}},"/var/host/log/messages":{"source":"/var/host/log/messages","offset":34018721,"FileStateOS":{"inode":68302227,"device":64768}},"/var/host/log/secure":{"source":"/var/host/log/secure","offset":2708,"FileStateOS":{"inode":67800335,"device":64768}}}
